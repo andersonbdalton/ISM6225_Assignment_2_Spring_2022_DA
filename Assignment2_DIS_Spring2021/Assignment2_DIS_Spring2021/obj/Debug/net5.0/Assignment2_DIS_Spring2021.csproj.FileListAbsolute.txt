@@ -1,0 +1,15 @@
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/bin/Debug/net5.0/Assignment2_DIS_Spring2021.deps.json
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/bin/Debug/net5.0/Assignment2_DIS_Spring2021.runtimeconfig.json
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/bin/Debug/net5.0/Assignment2_DIS_Spring2021.runtimeconfig.dev.json
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/bin/Debug/net5.0/Assignment2_DIS_Spring2021.dll
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/bin/Debug/net5.0/ref/Assignment2_DIS_Spring2021.dll
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/bin/Debug/net5.0/Assignment2_DIS_Spring2021.pdb
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.csproj.AssemblyReference.cache
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.AssemblyInfoInputs.cache
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.AssemblyInfo.cs
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.csproj.CoreCompileInputs.cache
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.dll
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/ref/Assignment2_DIS_Spring2021.dll
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.pdb
+/Users/Dalton/Projects/Assignment2_DIS_Spring2021/Assignment2_DIS_Spring2021/obj/Debug/net5.0/Assignment2_DIS_Spring2021.genruntimeconfig.cache
